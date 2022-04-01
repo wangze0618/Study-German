@@ -17,5 +17,8 @@ Sie -> she
 Die Kellnerin/Der kellner -> the waiter
 Schauspielerin -> an actress/actress/players/actor
 Bruder -> brother 
-
-
+male -> paint 
+Schwimme -> Swim 
+Nie >never 
+Oft >often 
+Immer >always
